@@ -19,7 +19,6 @@ import {
   DollarSign,
 } from "lucide-react";
 
-// နံပါတ် (၄) အဆင့် - သင့်ပုံထဲက Config ကို ဒီမှာ အစားထိုးပါ
 const firebaseConfig = {
   apiKey: "AIzaSyBfZDqL3oynap-pKx-sicb_Fybhn-NIFlQ",
   authDomain: "dailyplanner-c0691.firebaseapp.com",
