@@ -20,7 +20,7 @@ const VPNTrackerApp = () => {
   const [entries, setEntries] = useState([]);
   const [isDark, setIsDark] = useState(true);
   const [usdRate, setUsdRate] = useState(4500);
-  const [defaultCost, setDefaultCost] = useState(2000);
+  const [defaultCost, setDefaultCost] = useState(60000);
 
   // Input States
   const [customerName, setCustomerName] = useState("");
